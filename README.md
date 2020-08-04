@@ -6,6 +6,7 @@ This project is to model and visualize Covid-19 cases based on county-level demo
 ## Data
 - The Covid-19 data (from [JHU-CSSEGIS](https://github.com/CSSEGISandData/COVID-19))
 - The geo-json data (from [Plotly](https://github.com/plotly/datasets))
+- The US county-level demographics and economy data (from [US Census Bureau](https://www.census.gov/data.html))
 
 
 ## Exploratory Data Analysis
