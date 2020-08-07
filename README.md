@@ -10,7 +10,7 @@ This project is to model and visualize Covid-19 cases based on county-level demo
 
 
 ## Exploratory Data Analysis
-- [Notebook](https://github.com/minaxixi/Covid-19-Modeling/blob/master/covid_19_EDA.ipynb)
+- [Notebook](https://github.com/minaxixi/Covid-19-Modeling/blob/master/covid_19_EDA.ipynb) or [Notebook via nbviewer](https://nbviewer.jupyter.org/github/minaxixi/Covid-19-Modeling/blob/master/covid_19_EDA.ipynb)
 - Visualize the spatial distribution of Covid-19 confirmed cases and deaths on 07-31-2020 in United States via *Plotly*.
 - Developed data processing pipeline to process the Covid-19 data via *Spark*.
 - Modeled the temporal evolution of Covid-19 confirmed cases via a logistic growth model.
